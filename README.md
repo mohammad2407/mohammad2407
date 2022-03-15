@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ali Shaik</h1>
 <h3 align="center">Aspiring full stack Web developer</h3>
 
+<div align = "center">
+<!-- <img src="https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/git-img-3.png?sanitize=true&raw=true" /> -->
+  <img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/git-img-4.svg"  />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad2407&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad2407" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad2407" alt="mohammad2407" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad2407" alt="mohammad2407" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/lvetslp" target="blank"><img src="https://img.shields.io/twitter/follow/lvetslp?logo=twitter&style=for-the-badge" alt="lvetslp" /></a> </p>
 
