@@ -1,12 +1,13 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohammad Ali </h1>
 <h3 align="center">Aspiring MERN Stack developer</h3>
 
-<!-- <img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" width = "30%"> -->
 <h4 align="left"></h4>
 
 <div align = "center">
 <!-- <img src="https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/git-img-3.png?sanitize=true&raw=true" /> -->
-  <img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/git-img-4.svg"  />
+  <img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/git-img-4.svg" width = "50%" />
+<img align = "bottom" src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" width = "60%">
+  
 </div>
 
 <h1 alighn="left">About me🧞</h1>
