@@ -1,10 +1,27 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ali Shaik</h1>
-<h3 align="center">Aspiring full stack Web developer</h3>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohammad Ali </h1>
+<h3 align="center">Aspiring MERN Stack developer</h3>
+
+<!-- <img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" width = "30%"> -->
+<h4 align="left"></h4>
 
 <div align = "center">
 <!-- <img src="https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/git-img-3.png?sanitize=true&raw=true" /> -->
   <img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/git-img-4.svg"  />
 </div>
+
+<h1 alighn="left">About me🧞</h1>
+
+- I’m a student pursuing **Full Stack Web Development** at **[Masai School](https://www.masaischool.com/)**
+
+- Looking forward to lauching my career as an **SDE**
+
+- All of my projects are available at ***[My Github Repositories](https://github.com/mohammad2407?tab=repositories)***
+
+- Reach out to me at ***mohammadalishaik.in@gmail.com***
+
+<!-- - Check out my ***[portfolio](https://renukaprasad.vercel.app/)*** -->
+- Interested in traditional portrait Arts and Designs.
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad2407&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad2407" /> </p>
 
