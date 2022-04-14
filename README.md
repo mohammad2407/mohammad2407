@@ -8,8 +8,9 @@
   <img align = "bottom" src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" width = "50%" >
   
 </div>
-<h2> Bio</h2>
-<p>Aspiring MERN Stack Developer, Aiming to start my journey as a Full-Stack Web Developer in a tech company.</br>
+<br/>
+<br/>
+<p>Aspiring MERN Stack Developer, Aiming to start my journey </br> as a Full-Stack Web Developer in a tech company.</br>
 Enhanced skills both in the backend and Frontend development. Adaptive to team projects.</p> 
 
 <h1 alighn="left">About me🧞</h1>
